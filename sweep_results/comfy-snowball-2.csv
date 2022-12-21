@@ -1,0 +1,2 @@
+"Name","Notes","State","Tags","batch_size","dropout","learning_rate","num_train_epochs","weight_decay","manual_seed"
+"comfy-snowball-2","-","finished","","8","0.1","0.000013988304860500646","2","0.2926375622699753","4120"
